@@ -61,7 +61,7 @@ export function NavBar({
         </Link>
         <Link
           href="https://myapps.ai"
-          className="underline decoration-[#e94aff] decoration-2 text-[#e94aff]"
+          className="underline decoration-[#fff] decoration-2 text-[#e94aff]"
           target="_blank"
         >
           AI Tutor
