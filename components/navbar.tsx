@@ -144,7 +144,7 @@ export function NavBar({
                 </span>
               </DropdownMenuLabel>
               <DropdownMenuSeparator />
-              <DropdownMenuItem
+              {/* <DropdownMenuItem
                 onClick={() => {
                   window.open('https://e2b.dev', '_blank')
                 }}
@@ -163,7 +163,7 @@ export function NavBar({
               <DropdownMenuItem onClick={() => onSocialClick('x')}>
                 <TwitterLogoIcon className="mr-2 h-4 w-4 text-muted-foreground" />
                 Follow us on X
-              </DropdownMenuItem>
+              </DropdownMenuItem> */}
               <DropdownMenuSeparator />
               <DropdownMenuItem onClick={signOut}>
                 <LogOut className="mr-2 h-4 w-4 text-muted-foreground" />
