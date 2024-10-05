@@ -58,7 +58,7 @@ export function DeployDialog({
       <DropdownMenuTrigger asChild>
         <Button variant="default">
           <Logo style="e2b" width={16} height={16} className="mr-2" />
-          Deploy to E2B
+          Deploy to Cloud
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent className="p-4 w-80 flex flex-col gap-2">
@@ -71,7 +71,7 @@ export function DeployDialog({
           The fragment will be available up until the expiration date you choose
           and you&apos;ll be billed based on our{' '}
           <a
-            href="https://e2b.dev/docs/pricing"
+            href="https://myapps.ai"
             target="_blank"
             className="underline"
           >
@@ -82,7 +82,7 @@ export function DeployDialog({
         <div className="text-sm text-muted-foreground">
           All new accounts receive $100 worth of compute credits. Upgrade to{' '}
           <a
-            href="https://e2b.dev/dashboard?tab=billing"
+            href="https://myapps.ai"
             target="_blank"
             className="underline"
           >
