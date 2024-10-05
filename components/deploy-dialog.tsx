@@ -62,7 +62,7 @@ export function DeployDialog({
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent className="p-4 w-80 flex flex-col gap-2">
-        <div className="text-sm font-semibold">Deploy to E2B</div>
+        <div className="text-sm font-semibold">Deploy to AI Tutor</div>
         <div className="text-sm text-muted-foreground">
           Deploying the fragment will make it publicly accessible to others via
           link.
