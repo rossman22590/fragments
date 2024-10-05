@@ -176,13 +176,13 @@ export function ChatInput({
         </div>
       </div>
       <p className="text-xs text-muted-foreground mt-2 text-center">
-        Fragments is an open-source project made by{' '}
+        AI Tutor Builder  is an project made by{' '}
         <a
-          href="https://e2b.dev"
+          href="https://myapps.ai"
           target="_blank"
-          className="text-[#ff8800]"
+          className="text-[#e94aff]"
         >
-          ✶ E2B
+          ✶ AI Tutor
         </a>
       </p>
     </form>
