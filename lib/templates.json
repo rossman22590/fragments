@@ -13,6 +13,13 @@
     "instructions": "A Next.js 13+ app that reloads automatically. Using the pages router.",
     "port": 3000
   },
+    "html-developer": {
+      "name": "html-developer",
+      "lib": ["html", "css", "javascript", "bootstrap@5.3.0", "jquery@3.6.0"],
+      "file": "index.html",
+      "instructions": "A basic HTML project that includes Bootstrap and jQuery for rapid development of static web pages.",
+      "port": 8080
+    },
   "vue-developer": {
     "name": "Vue.js developer",
     "lib": ["vue@latest", "nuxt@3.13.0", "tailwindcss"],
